@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1734422776 source:d:\documents\c++\lachezara_501222031_airplane\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<limits>
+	"Airplane.h"
+	"AirplaneClass.h"
+	"Flight.h"
+
+1734422748 d:\documents\c++\lachezara_501222031_airplane\airplane.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+
+1734422748 d:\documents\c++\lachezara_501222031_airplane\airplaneclass.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+
+1734422748 d:\documents\c++\lachezara_501222031_airplane\flight.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+

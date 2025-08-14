@@ -1,0 +1,4 @@
+Paris,2500,1200
+London,2500,800
+Berlin,1500,1500
+New York,300,5000

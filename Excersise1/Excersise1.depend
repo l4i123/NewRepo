@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1735566977 source:d:\documents\c++\excersise1\time.cpp
+	<iostream>
+	"Time.h"
+
+1735567298 d:\documents\c++\excersise1\time.h
+	<iostream>
+	<string>
+
+1735579173 source:d:\documents\c++\excersise1\worker.cpp
+	<iostream>
+	"Worker.h"
+
+1735579357 d:\documents\c++\excersise1\worker.h
+	<iostream>
+	<string>
+	<vector>
+
+1735584331 source:d:\documents\c++\excersise1\line.cpp
+	<iostream>
+	"Line.h"
+
+1735584360 d:\documents\c++\excersise1\line.h
+	<iostream>
+

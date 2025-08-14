@@ -1,0 +1,4 @@
+A001,Economy
+A002,Bussiness
+A003,irstClass
+B002,ussiness

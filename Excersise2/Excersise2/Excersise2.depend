@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1737384719 source:d:\documents\c++\excersise2\excersise2\rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+
+1737384754 d:\documents\c++\excersise2\excersise2\rectangle.h
+	<iostream>
+
+1737385880 source:d:\documents\c++\excersise2\excersise2\car_truck.cpp
+	<iostream>
+	"Car.h"
+	"Truck.h"
+
+1737385894 d:\documents\c++\excersise2\excersise2\car.h
+	<iostream>
+
+1737385843 d:\documents\c++\excersise2\excersise2\truck.h
+	<iostream>
+
